@@ -1,0 +1,18 @@
+#
+# AFL dictionary for FOTBOT
+# ----------------------
+#
+# Basic syntax elements for client requests.
+
+"USER"
+"PASS"
+"DPIN"
+"REGU"
+"AMFA"
+"UPDA"
+"UPDP"
+"GETS"
+"ADDF"
+"GETF"
+"LOGO"
+"QUIT"
