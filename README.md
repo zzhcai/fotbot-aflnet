@@ -163,3 +163,10 @@ The subject staff take academic misconduct very seriously. In this subject in th
 ### Originality Multiplier
 
 For work that we find is similar to another submission or information found online, an originality multiplier will be applied to the work.  For example, if 20% of the assessment is deemed to have been taken from another source, the final mark will be multiplied by 0.8.
+
+
+# Marks
+
+- 20.5/25 (82%)
+
+- Line coverage close to the High benchmark. 4.3 not considered as an eligible vulnerability. \- Wenjun Zhou
