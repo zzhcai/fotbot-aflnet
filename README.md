@@ -167,4 +167,6 @@ For work that we find is similar to another submission or information found onli
 
 # Marks
 
-- ?/10 + 25/25 (100%)
+- 20.5/25 (82%)
+
+- Line coverage close to the High benchmark. 4.3 not considered as an eligible vulnerability. \- Wenjun Zhou
